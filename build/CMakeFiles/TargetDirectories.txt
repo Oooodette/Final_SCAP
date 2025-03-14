@@ -1,0 +1,14 @@
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/CMakeFiles/edit_cache.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/CMakeFiles/rebuild_cache.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/CMakeFiles/list_install_components.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/CMakeFiles/install.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/CMakeFiles/install/local.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/CMakeFiles/install/strip.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/mylib.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/my_exe.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/edit_cache.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/list_install_components.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/install.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/install/local.dir
+C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/install/strip.dir

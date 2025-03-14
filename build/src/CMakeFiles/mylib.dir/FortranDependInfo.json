@@ -1,0 +1,29 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src",
+	"dir-cur-src" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/src",
+	"dir-top-bld" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build",
+	"dir-top-src" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "Fortran",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src",
+	"sources" : 
+	{
+		"src/CMakeFiles/mylib.dir/com.f90.obj" : 
+		{
+			"language" : "Fortran",
+			"source" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/src/com.f90"
+		}
+	},
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}
