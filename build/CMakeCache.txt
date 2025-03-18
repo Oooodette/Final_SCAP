@@ -605,7 +605,7 @@ LAPACK_openblas_LIBRARY-ADVANCED:INTERNAL=1
 LAPACK_scs_LIBRARY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LAPACK_vecLib_LIBRARY
 LAPACK_vecLib_LIBRARY-ADVANCED:INTERNAL=1
-MY_MODS:INTERNAL=com.f90
+MY_MODS:INTERNAL=com.f90;inputoutput.f90;molecules.f90
 //linker supports push/pop state
 _CMAKE_C_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //linker supports push/pop state

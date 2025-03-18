@@ -18,6 +18,16 @@
 	"module-dir" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src",
 	"sources" : 
 	{
+		"src/CMakeFiles/mylib.dir/InputOutput.f90.obj" : 
+		{
+			"language" : "Fortran",
+			"source" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/src/InputOutput.f90"
+		},
+		"src/CMakeFiles/mylib.dir/Molecules.f90.obj" : 
+		{
+			"language" : "Fortran",
+			"source" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/src/Molecules.f90"
+		},
 		"src/CMakeFiles/mylib.dir/com.f90.obj" : 
 		{
 			"language" : "Fortran",

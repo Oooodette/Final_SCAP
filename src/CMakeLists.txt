@@ -1,4 +1,6 @@
 set(MY_MODS   com.f90
+            inputoutput.f90
+            molecules.f90
               CACHE INTERNAL "")
 add_library(mylib "${MY_MODS}")
 add_executable(my_exe main.f90)
