@@ -18,6 +18,11 @@
 	"module-dir" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src",
 	"sources" : 
 	{
+		"src/CMakeFiles/mylib.dir/Data.f90.obj" : 
+		{
+			"language" : "Fortran",
+			"source" : "C:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/src/Data.f90"
+		},
 		"src/CMakeFiles/mylib.dir/InputOutput.f90.obj" : 
 		{
 			"language" : "Fortran",

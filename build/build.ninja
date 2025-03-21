@@ -158,7 +158,20 @@ build src/CMakeFiles/mylib.dir/Molecules.f90.obj: Fortran_COMPILER__mylib_scanne
   OBJECT_FILE_DIR = src\CMakeFiles\mylib.dir
   dyndep = src/CMakeFiles/mylib.dir/Fortran.dd
 
-build src/CMakeFiles/mylib.dir/Fortran.dd | C$:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/mylib.dir/FortranModules.json: Fortran_DYNDEP__mylib_Debug src/CMakeFiles/mylib.dir/com.f90.obj.ddi src/CMakeFiles/mylib.dir/InputOutput.f90.obj.ddi src/CMakeFiles/mylib.dir/Molecules.f90.obj.ddi | C$:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/mylib.dir/FortranDependInfo.json
+build src/CMakeFiles/mylib.dir/Data.f90-pp.f90 | src/CMakeFiles/mylib.dir/Data.f90.obj.ddi: Fortran_PREPROCESS_SCAN__mylib_Debug C$:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/src/Data.f90 || cmake_object_order_depends_target_mylib
+  DEP_FILE = src\CMakeFiles\mylib.dir\Data.f90-pp.f90.d
+  DYNDEP_INTERMEDIATE_FILE = src\CMakeFiles\mylib.dir\Data.f90.obj.ddi
+  FLAGS = -std=f95 -g -Wall -g -Jsrc
+  OBJ_FILE = src\CMakeFiles\mylib.dir\Data.f90.obj
+
+build src/CMakeFiles/mylib.dir/Data.f90.obj: Fortran_COMPILER__mylib_scanned_Debug src/CMakeFiles/mylib.dir/Data.f90-pp.f90 || src/CMakeFiles/mylib.dir/Fortran.dd
+  FLAGS = -std=f95 -g -Wall -g -Jsrc -fpreprocessed
+  INCLUDES = -IC:\Users\odett\Documents\UvA\MBCS\scap\Week6\Final_SCAP\src
+  OBJECT_DIR = src\CMakeFiles\mylib.dir
+  OBJECT_FILE_DIR = src\CMakeFiles\mylib.dir
+  dyndep = src/CMakeFiles/mylib.dir/Fortran.dd
+
+build src/CMakeFiles/mylib.dir/Fortran.dd | C$:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/mylib.dir/FortranModules.json: Fortran_DYNDEP__mylib_Debug src/CMakeFiles/mylib.dir/com.f90.obj.ddi src/CMakeFiles/mylib.dir/InputOutput.f90.obj.ddi src/CMakeFiles/mylib.dir/Molecules.f90.obj.ddi src/CMakeFiles/mylib.dir/Data.f90.obj.ddi | C$:/Users/odett/Documents/UvA/MBCS/scap/Week6/Final_SCAP/build/src/CMakeFiles/mylib.dir/FortranDependInfo.json
 
 
 # =============================================================================
@@ -168,7 +181,7 @@ build src/CMakeFiles/mylib.dir/Fortran.dd | C$:/Users/odett/Documents/UvA/MBCS/s
 #############################################
 # Link the static library src\libmylib.a
 
-build src/libmylib.a: Fortran_STATIC_LIBRARY_LINKER__mylib_Debug src/CMakeFiles/mylib.dir/com.f90.obj src/CMakeFiles/mylib.dir/InputOutput.f90.obj src/CMakeFiles/mylib.dir/Molecules.f90.obj
+build src/libmylib.a: Fortran_STATIC_LIBRARY_LINKER__mylib_Debug src/CMakeFiles/mylib.dir/com.f90.obj src/CMakeFiles/mylib.dir/InputOutput.f90.obj src/CMakeFiles/mylib.dir/Molecules.f90.obj src/CMakeFiles/mylib.dir/Data.f90.obj
   LANGUAGE_COMPILE_FLAGS = -std=f95 -g -Wall -g
   OBJECT_DIR = src\CMakeFiles\mylib.dir
   POST_BUILD = cd .
